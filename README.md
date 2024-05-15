@@ -1,3 +1,6 @@
-slides for the live coding or workshop
 
-https://docs.google.com/presentation/d/1VPWqxxqrudsR001B0mXeSCY3bdjvT_xdqbsCxj3Kqck/edit?usp=drive_link
+on part de la proposition métier de Arnaud Bailly
+https://abailly.github.io/posts/dependently-typed-accounting.html
+
+une version (dont l'objectif pedagogique est différent néanmoins) est ici
+https://github.com/music-action/how-to-test-the-hexagon-kotlin-2024

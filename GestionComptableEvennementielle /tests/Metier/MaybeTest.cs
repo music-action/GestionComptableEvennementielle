@@ -1,7 +1,7 @@
 using FluentAssertions;
 using LanguageExt;
 
-namespace MonadsFromTheTrenches.simplerCase;
+namespace GestionComptableEvennementielle_.simplerCase;
 
 public class MaybeTest
 {
